@@ -1,19 +1,21 @@
 # AI assistance summary
 
-This repository used AI assistance from ChatGPT and Codex during the project, including:
+# AI assistance summary
 
-- project planning and scope refinement;
-- prompt development for staged implementation work;
-- implementation scaffolding for preprocessing, EDA, and baseline modeling code;
-- code review and debugging support;
-- test design and validation planning;
-- documentation refinement for the final submission.
+I used ChatGPT and Codex throughout this project for:
 
-The human repository owner retained responsibility for the project scope, methodological choices, review decisions, and merge decisions. In particular, the owner chose to keep the analysis focused on recorded administrative alert activity, to separate oblast, raion, and hromada levels, and to use simple leakage-free baselines before considering more complex models.
+* project planning and scope refinement;
+* developing prompts for staged implementation;
+* creating implementation scaffolding for preprocessing, EDA, and baseline modeling;
+* code review and debugging;
+* test design and validation planning;
+* documentation refinement for the final submission.
 
-AI-assisted work was reviewed through pull requests. Relevant merged pull requests include PR #3, PR #5, and PR #6. Examples of corrections requested before merge included clarifying administrative granularity, avoiding misleading interpretations of recorded alerts as attacks, excluding partial-day data from analysis and modeling, and correcting GitHub workflow issues before merging.
+I retained responsibility for the project scope, methodological choices, review decisions, and merge decisions. In particular, I decided to focus the analysis on recorded administrative alert activity, to keep oblast, raion, and hromada levels separate, and to use simple leakage-free baselines before considering more complex models.
 
-This file is only a concise summary of AI-assisted work.
+I reviewed AI-assisted work through pull requests. Relevant merged pull requests include PR #3, PR #5, and PR #6. Before merging, I requested corrections related to administrative granularity, misleading interpretations of recorded alerts as attacks, exclusion of partial-day data from analysis and modeling, and GitHub workflow issues.
+
+This file is only a concise summary of how I used AI during the project. It is not the full AI interaction log.
 
 © 2026 Anna Kiulafli. All rights reserved.
 
