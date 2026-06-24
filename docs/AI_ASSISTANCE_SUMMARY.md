@@ -1,7 +1,5 @@
 # AI assistance summary
 
-# AI assistance summary
-
 I used ChatGPT and Codex throughout this project for:
 
 * project planning and scope refinement;
